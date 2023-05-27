@@ -1,0 +1,30 @@
+bodY{
+    display: flex;
+    background-color: rgb(80, 80, 80);
+}
+#nome{
+    margin-top: 0px;
+    margin-left: 20px;
+    color: white;
+}
+#img_local{
+    height: 400px;
+    width: 430px;
+    position: relative;
+    left: 20px;
+    top: -15px;
+}
+#imagem{
+    height: 400px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+}
+#premios{
+    margin-left: -5px;
+
+}
+li{
+    margin-top: 10px;
+    color: white;
+}
